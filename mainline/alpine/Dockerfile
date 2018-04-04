@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
+LABEL maintainer="Stephen Lau <stephen.lau@edument.se>"
 
 ENV NGINX_VERSION 1.13.11
 
